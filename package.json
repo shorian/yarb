@@ -1,0 +1,15 @@
+{
+  "name": "yarb",
+  "version": "1.0.0",
+  "description": "Yet Another Reminder Bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shorian",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
